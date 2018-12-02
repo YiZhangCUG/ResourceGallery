@@ -1,6 +1,6 @@
 name: Resources
 markdown: redcarpet
-highlighter: true
+highlighter: rouge
 permalink: /:year/:month/:title/
 baseurl: "/ResourceGallery"
 author:
