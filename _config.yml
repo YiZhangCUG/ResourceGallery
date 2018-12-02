@@ -2,7 +2,7 @@ name: Resources
 markdown: redcarpet
 highlighter: true
 permalink: /:year/:month/:title/
-baseurl: "/Resources"
+baseurl: "/ResourceGallery"
 author:
     name: Yi Zhang
     twitter: #
