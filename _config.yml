@@ -1,0 +1,8 @@
+name: Resources
+markdown: redcarpet
+highlighter: true
+permalink: /:year/:month/:title/
+baseurl: "/Resources"
+author:
+    name: Yi Zhang
+    twitter: #
